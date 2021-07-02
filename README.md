@@ -1,6 +1,3 @@
-# Visma_book_library
-Visma Java Developer Summer Internship Task
-
 
 API URI names are:
 ```
