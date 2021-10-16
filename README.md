@@ -1,5 +1,5 @@
 
-API URI names are:
+API endpoint names are:
 ```
 /list
 /list/{filter}/{param}   where filter is {author | category | language | isbn | name | taken | available}
