@@ -8,3 +8,4 @@ API endpoint names are:
 /delete/{guid}
 /take?{name} & {GUID} & {period}
 ```
+TODO: Fix REST Resource Naming
